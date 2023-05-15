@@ -1,0 +1,41 @@
+.bio-banner {
+    background-image: url("https://wallpaperaccess.com/full/116380.jpg");
+    min-height: 750px;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    &:before {
+        content: "";
+        position: absolute;
+        background-image: url("/storage/uploads/shape.png");
+        width: 100%;
+        height: 260px;
+        bottom: 0;
+    }
+}
+
+.bg-banner {
+    background-image: url("https://media.allure.com/photos/5f6f55bcfead0c52de619dc8/16:9/w_2560%2Cc_limit/rihanna-lede.jpg");
+    min-height: 770px;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    p {
+        z-index: 1;
+    }
+    &:after {
+        content: "";
+        position: absolute;
+        background-color: #000000b0;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+
+    }
+}

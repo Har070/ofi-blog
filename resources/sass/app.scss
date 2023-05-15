@@ -1,0 +1,24 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+@import "~@fortawesome/fontawesome-free/css/all.min.css";
+
+// AOS module
+@import '~aos/dist/aos.css';
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+body {
+    background-color: $whiteBg;
+}
+
+.line-height-7 {
+    line-height: 1.7em;
+}
+
+.bg-semi-white {
+    background-color: $semiWhiteBg;
+}

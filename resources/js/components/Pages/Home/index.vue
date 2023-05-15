@@ -1,0 +1,218 @@
+<template>
+    <div class="container-fluid border">
+        <div class="row">
+            <div class="card-columns">
+                <div class="card card-pin" data-aos="fade-up">
+                    <img class="card-img" src="https://images.unsplash.com/photo-1489743342057-3448cc7c3bb9?ixlib=rb-0.3.5&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;s=6d284a2efbca5f89528546307f7e7b87&amp;auto=format&amp;fit=crop&amp;w=500&amp;q=60" alt="Card image">
+                    <div class="overlay">
+                        <h2 class="card-title title">Cool Title</h2>
+                        <div class="more">
+                            <a href="post.html">
+                                <i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i> More </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="card card-pin" data-aos="fade-up">
+                    <img class="card-img" src="https://images.unsplash.com/photo-1519996521430-02b798c1d881?ixlib=rb-0.3.5&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;s=79f770fc1a5d8ff9b0eb033d0f09e15d&amp;auto=format&amp;fit=crop&amp;w=500&amp;q=60" alt="Card image">
+                    <div class="overlay">
+                        <h2 class="card-title title">Cool Title</h2>
+                        <div class="more">
+                            <a href="post.html">
+                                <i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i> More </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="card card-pin" data-aos="fade-up">
+                    <img class="card-img" src="https://images.unsplash.com/photo-1505210512658-3ae58ae08744?ixlib=rb-0.3.5&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;s=2ef2e23adda7b89a804cf232f57e3ca3&amp;auto=format&amp;fit=crop&amp;w=333&amp;q=80" alt="Card image">
+                    <div class="overlay">
+                        <h2 class="card-title title">Cool Title</h2>
+                        <div class="more">
+                            <a href="post.html">
+                                <i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i> More </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="card card-pin" data-aos="fade-up">
+                    <img class="card-img" src="https://images.unsplash.com/photo-1488353816557-87cd574cea04?ixlib=rb-0.3.5&amp;s=06371203b2e3ad3e241c45f4e149a1b3&amp;auto=format&amp;fit=crop&amp;w=334&amp;q=80" alt="Card image">
+                    <div class="overlay">
+                        <h2 class="card-title title">Cool Title</h2>
+                        <div class="more">
+                            <a href="post.html">
+                                <i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i> More </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="card card-pin" data-aos="fade-up">
+                    <img class="card-img" src="https://images.unsplash.com/photo-1518450757707-d21c8c53c8df?ixlib=rb-0.3.5&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;s=c88b5f311958f841525fdb01ab3b5deb&amp;auto=format&amp;fit=crop&amp;w=500&amp;q=60" alt="Card image">
+                    <div class="overlay">
+                        <h2 class="card-title title">Cool Title</h2>
+                        <div class="more">
+                            <a href="post.html">
+                                <i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i> More </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="card card-pin" data-aos="fade-up">
+                    <img class="card-img" src="https://images.unsplash.com/photo-1483190656465-2c49e54d29f3?ixlib=rb-0.3.5&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;s=7c4d831daffc28f6ce144ae9e44072e2&amp;auto=format&amp;fit=crop&amp;w=500&amp;q=60" alt="Card image">
+                    <div class="overlay">
+                        <h2 class="card-title title">Cool Title</h2>
+                        <div class="more">
+                            <a href="post.html">
+                                <i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i> More </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="card card-pin" data-aos="fade-up">
+                    <img class="card-img" src="https://images.unsplash.com/photo-1501813531019-338a4182efb0?ixlib=rb-0.3.5&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;s=ad934c7483b928cae6b0b9cde5ae3445&amp;auto=format&amp;fit=crop&amp;w=500&amp;q=60" alt="Card image">
+                    <div class="overlay">
+                        <h2 class="card-title title">Cool Title</h2>
+                        <div class="more">
+                            <a href="post.html">
+                                <i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i> More </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="card card-pin" data-aos="fade-up">
+                    <img class="card-img" src="https://images.unsplash.com/photo-1518542331925-4e91e9aa0074?ixlib=rb-0.3.5&amp;s=6958cfb3469de1e681bf17587bed53be&amp;auto=format&amp;fit=crop&amp;w=500&amp;q=60" alt="Card image">
+                    <div class="overlay">
+                        <h2 class="card-title title">Cool Title</h2>
+                        <div class="more">
+                            <a href="post.html">
+                                <i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i> More </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="card card-pin" data-aos="fade-up">
+                    <img class="card-img" src="https://images.unsplash.com/photo-1513028179155-324cfec2566c?ixlib=rb-0.3.5&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;s=32ce1df4016dadc177d6fce1b2df2429&amp;auto=format&amp;fit=crop&amp;w=350&amp;q=80" alt="Card image">
+                    <div class="overlay">
+                        <h2 class="card-title title">Cool Title</h2>
+                        <div class="more">
+                            <a href="post.html">
+                                <i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i> More </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="card card-pin" data-aos="fade-up">
+                    <img class="card-img" src="https://images.unsplash.com/photo-1516601255109-506725109807?ixlib=rb-0.3.5&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;s=ce4f3db9818f60686e8e9b62d4920ce5&amp;auto=format&amp;fit=crop&amp;w=500&amp;q=60" alt="Card image">
+                    <div class="overlay">
+                        <h2 class="card-title title">Cool Title</h2>
+                        <div class="more">
+                            <a href="post.html">
+                                <i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i> More </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="card card-pin" data-aos="fade-up">
+                    <img class="card-img" src="https://images.unsplash.com/photo-1509233631037-deb7efd36207?ixlib=rb-0.3.5&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;s=75a5d784cdfc8f5ced8a6fe26c6d921e&amp;auto=format&amp;fit=crop&amp;w=500&amp;q=60" alt="Card image">
+                    <div class="overlay">
+                        <h2 class="card-title title">Cool Title</h2>
+                        <div class="more">
+                            <a href="post.html">
+                                <i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i> More </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="card card-pin" data-aos="fade-up">
+                    <img class="card-img" src="https://images.unsplash.com/photo-1416879595882-3373a0480b5b?ixlib=rb-0.3.5&amp;s=c0043ea5aa03f62a294636f93725dd6e&amp;auto=format&amp;fit=crop&amp;w=500&amp;q=60" alt="Card image">
+                    <div class="overlay">
+                        <h2 class="card-title title">Cool Title</h2>
+                        <div class="more">
+                            <a href="post.html">
+                                <i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i> More </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="card card-pin" data-aos="fade-up">
+                    <img class="card-img" src="https://images.unsplash.com/photo-1485627658391-1365e4e0dbfe?ixlib=rb-0.3.5&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;s=976b0db5c3c2b9932bb20e72f98f9b61&amp;auto=format&amp;fit=crop&amp;w=500&amp;q=60" alt="Card image">
+                    <div class="overlay">
+                        <h2 class="card-title title">Cool Title</h2>
+                        <div class="more">
+                            <a href="post.html">
+                                <i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i> More </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="card card-pin" data-aos="fade-up">
+                    <img class="card-img" src="https://images.unsplash.com/photo-1502550900787-e956c314a221?ixlib=rb-0.3.5&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;s=e90f191de3a03c2002ac82c009490e07&amp;auto=format&amp;fit=crop&amp;w=500&amp;q=60" alt="Card image">
+                    <div class="overlay">
+                        <h2 class="card-title title">Cool Title</h2>
+                        <div class="more">
+                            <a href="post.html">
+                                <i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i> More </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="card card-pin" data-aos="fade-up">
+                    <img class="card-img" src="https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?ixlib=rb-0.3.5&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;s=9e3cd6ce6496c9c05cbf1b6cda8be0f9&amp;auto=format&amp;fit=crop&amp;w=500&amp;q=60" alt="Card image">
+                    <div class="overlay">
+                        <h2 class="card-title title">Cool Title</h2>
+                        <div class="more">
+                            <a href="post.html">
+                                <i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i> More </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="card card-pin" data-aos="fade-up">
+                    <img class="card-img" src="https://images.unsplash.com/photo-1509885903707-b68568db61ed?ixlib=rb-0.3.5&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;s=5f11503655b51165836c2dcefa51a040&amp;auto=format&amp;fit=crop&amp;w=500&amp;q=60" alt="Card image">
+                    <div class="overlay">
+                        <h2 class="card-title title">Cool Title</h2>
+                        <div class="more">
+                            <a href="post.html">
+                                <i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i> More </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="card card-pin" data-aos="fade-up">
+                    <img class="card-img" src="https://images.unsplash.com/photo-1518707399486-6d702a84ff00?ixlib=rb-0.3.5&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;s=b5bb16fa7eaed1a1ed47614488f7588d&amp;auto=format&amp;fit=crop&amp;w=500&amp;q=60" alt="Card image">
+                    <div class="overlay">
+                        <h2 class="card-title title">Cool Title</h2>
+                        <div class="more">
+                            <a href="post.html">
+                                <i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i> More </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="card card-pin" data-aos="fade-up">
+                    <img class="card-img" src="https://images.unsplash.com/photo-1519408299519-b7a0274f7d67?ixlib=rb-0.3.5&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;s=d4891b98f4554cc55eab1e4a923cbdb1&amp;auto=format&amp;fit=crop&amp;w=500&amp;q=60" alt="Card image">
+                    <div class="overlay">
+                        <h2 class="card-title title">Cool Title</h2>
+                        <div class="more">
+                            <a href="post.html">
+                                <i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i> More </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="card card-pin" data-aos="fade-up">
+                    <img class="card-img" src="https://images.unsplash.com/photo-1506706435692-290e0c5b4505?ixlib=rb-0.3.5&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;s=0bb464bb1ceea5155bc079c4f50bc36a&amp;auto=format&amp;fit=crop&amp;w=500&amp;q=60" alt="Card image">
+                    <div class="overlay">
+                        <h2 class="card-title title">Cool Title</h2>
+                        <div class="more">
+                            <a href="post.html">
+                                <i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i> More </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="card card-pin" data-aos="fade-up">
+                    <img class="card-img" src="https://images.unsplash.com/photo-1512355144108-e94a235b10af?ixlib=rb-0.3.5&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;s=c622d56d975113a08c71c912618b5f83&amp;auto=format&amp;fit=crop&amp;w=500&amp;q=60" alt="Card image">
+                    <div class="overlay">
+                        <h2 class="card-title title">Cool Title</h2>
+                        <div class="more">
+                            <a href="post.html">
+                                <i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i> More </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</template>
+
+<script>
+    export default {
+        name: "home"
+    }
+</script>
+
+<style lang="scss" scoped>
+    @import "../../../../sass/Home";
+</style>
